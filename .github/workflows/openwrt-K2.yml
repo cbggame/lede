@@ -9,9 +9,9 @@
 
 name: OpenWrt-K2
 
-#on:
-  #push:
-    #branches: 
+on:
+  push:
+    branches: 
       - master
   #     ↑↑↑ 改成你的分支名, 一般是master
   # schedule:
